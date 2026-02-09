@@ -1,1 +1,1 @@
-# Hospital_Management_System
+Patient_Management_System
